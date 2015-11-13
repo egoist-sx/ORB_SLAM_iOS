@@ -1,0 +1,18 @@
+PODS:
+  - boost/numeric-includes (1.57.0)
+  - boost/preprocessor-includes (1.57.0)
+  - eigen (3.2.5):
+    - boost/numeric-includes
+    - boost/preprocessor-includes
+  - OpenCV (2.4.10)
+
+DEPENDENCIES:
+  - eigen (= 3.2.5)
+  - OpenCV (= 2.4.10)
+
+SPEC CHECKSUMS:
+  boost: b6ed834eb7fac13c21eecfa034242649b155ef09
+  eigen: f44cbe83c3d11ff9efc2333914dc090b827f8176
+  OpenCV: 26e7fa4f6f727a50467c245b2eee1489f478d0f5
+
+COCOAPODS: 0.39.0

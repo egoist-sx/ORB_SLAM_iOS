@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "82E593AB771193CEFB7F8B1A5AFC75750E49EBE1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "75029840BF8E134D5F1C25A0F630100910BB3193" : 0,
+    "82E593AB771193CEFB7F8B1A5AFC75750E49EBE1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "25D9918D-4355-4EE0-BC4D-497C460CDD8D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "75029840BF8E134D5F1C25A0F630100910BB3193" : "ORB_SLAM_iOS\/dependency\/ofxiOSBoost\/",
+    "82E593AB771193CEFB7F8B1A5AFC75750E49EBE1" : "ORB_SLAM_iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ORB_SLAM_iOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ORB_SLAM_iOS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danoli3\/ofxiOSBoost.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "75029840BF8E134D5F1C25A0F630100910BB3193"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Thunderbolt-sx\/ORB_SLAM_iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "82E593AB771193CEFB7F8B1A5AFC75750E49EBE1"
+    }
+  ]
+}
