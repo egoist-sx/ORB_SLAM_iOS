@@ -12,3 +12,7 @@ Various IO options and utility are provided to test ORB_SLAM, including:
 
 This code has been tested on Xcode 7 with iPhone 6 plus (iOS9)
 
+USAGE:
+
+1. Download https://drive.google.com/open?id=0B1nzrhyFOuT3SXE1UHplLWFwOGs and unzip it to root folder. This contains compiled ARM64 libs g2o/boost which is too large for github.
+2. Either download vocabulary from https://drive.google.com/open?id=0B1nzrhyFOuT3am5JeDZDRjJGNkU or orginal author's page and unzip it to SLAM/ORB_SLAM/Data
