@@ -14,5 +14,5 @@ This code has been tested on Xcode 7 with iPhone 6 plus (iOS9)
 
 USAGE:
 
-1. Download zip file from [Google Drive](https://drive.google.com/open?id=0B1nzrhyFOuT3SXE1UHplLWFwOGs) and unzip it to root folder. This contains compiled ARM64 libs g2o/boost which is too large for github.
-2. Either download vocabulary from [Google Drive](https://drive.google.com/open?id=0B1nzrhyFOuT3am5JeDZDRjJGNkU) or orginal author's [page](https://github.com/raulmur/ORB_SLAM/blob/master/Data/ORBvoc.txt.tar.gz) and unzip it to SLAM/ORB_SLAM/Data
+1. Download zip file from [Baidu Drive](https://pan.baidu.com/s/1pLUCcOV)(I switched to Baidu Drive due to Google Drive's payment issue) and unzip it to root folder. This contains compiled ARM64 libs g2o/boost which is too large for github.
+2. Download vocabulary from orginal author's [page](https://github.com/raulmur/ORB_SLAM/blob/master/Data/ORBvoc.txt.tar.gz) and unzip it to SLAM/ORB_SLAM/Data
